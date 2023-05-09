@@ -1,7 +1,7 @@
 # jaymeeaton_CSC2463FinalProject.github.io
 CSC 2463 Final Project Documentation
 																									
-						CSC 2463 Integration Project Proposal:	
+					CSC 2463 Integration Project Proposal:	
 																
 For my integration project I would like to do an updated and more advanced version of the bug squish game. 
 I would change the original game by adding more characters into the game, and when the other characters are squished there would be points deducted from the player. 
@@ -11,12 +11,12 @@ For the hardware part I would have a green LED light up when a correct bug is sq
 There are going to be two screens but they will be the same. The only difference would be which player would be playing.
 
 
-						Diagram of Project (from Project Proposal):
+					Diagram of Project (from Project Proposal):
 						
 <img width="423" alt="Screen Shot 2023-05-09 at 12 16 10 PM" src="https://github.com/jaymeeaton02/jaymeeaton_CSC2463FinalProject.github.io/assets/77986526/19a36884-e953-4880-85a3-b75cffc81940">
 
 
-						Initial Project Outline:
+					Initial Project Outline:
 
 P5 
 

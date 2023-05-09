@@ -1,5 +1,5 @@
 # jaymeeaton_CSC2463FinalProject.github.io
-theme: minima
+theme: modernist
 
 CSC 2463 Final Project Documentation
 																									

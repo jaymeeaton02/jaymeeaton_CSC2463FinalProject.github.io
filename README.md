@@ -1,6 +1,4 @@
-//# jaymeeaton_CSC2463FinalProject.github.io
-# CSC 2463 Final Project Documentation
-																									
+# CSC 2463 Final Project Documentation																									
 						CSC 2463 Integration Project Proposal:	
 																
 For my integration project I would like to do an updated and more advanced version of the bug squish game. 

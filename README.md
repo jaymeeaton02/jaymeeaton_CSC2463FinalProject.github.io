@@ -1,6 +1,4 @@
 # jaymeeaton_CSC2463FinalProject.github.io
-theme: modernist
-
 CSC 2463 Final Project Documentation
 																									
 						CSC 2463 Integration Project Proposal:	
